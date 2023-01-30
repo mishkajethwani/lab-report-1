@@ -9,19 +9,19 @@ After installation, Open VS Code. You will see the following screen below:
 # Remotely Connecting
 Go to the toolbar at the top and select “New Terminal” under the drop down menu for “Terminal”. 
 ![Image](ss4.png)
-Now, type the following into the terminal **cs15lwi23zz@ieng6.ucsd.edu**. 
-NOTE : Make sure to change the "zz" to  the letters in your course-specific account. For example, mine is apx.
+Now, type the following into the terminal **cs15lwi23zz@ieng6.ucsd.edu**. <br>
+NOTE : Make sure to change the "zz" to  the letters in your course-specific account. For example, mine is apx.<br>
 If this is the first time you have connected to the server, you will receive the following message, type yes to continue. 
-*⤇ ssh cs15lwi23zz@ieng6.ucsd.edu
+*⤇ ssh cs15lwi23zz@ieng6.ucsd.edu<br>
 The authenticity of host 'ieng6-202.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 Password: 
 
-After doing so, you will be asked to Enter the password. 
-You will see the following on the terminal.
+After doing so, you will be asked to Enter the password. <br>
+Note that while entering the password, the characters of the password will not be shown.
 
-![Image](ss5.png)
+
 
 # Trying Some Commands
 Now, you can go ahead and try some commands on your own such as:-
