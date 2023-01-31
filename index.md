@@ -10,7 +10,6 @@ After installation, Open VS Code. You will see the following screen below:
 Go to the toolbar at the top and select “New Terminal” under the drop down menu for “Terminal”. 
 ![Image](ss4.png)
 Now, type the following into the terminal **cs15lwi23zz@ieng6.ucsd.edu**. <br>
-![Image](ss5.png)
 NOTE : Make sure to change the "zz" to  the letters in your course-specific account. For example, mine is apx.<br>
 If this is the first time you have connected to the server, you will receive the following message, type yes to continue. <br>
 *⤇ ssh cs15lwi23zz@ieng6.ucsd.edu <br>
@@ -21,6 +20,9 @@ Password:
 
 After doing so, you will be asked to Enter the password. <br>
 Note that while entering the password, the characters of the password will not be shown.
+
+After typing in the password, you will see the following:-
+![Image](ss5.png)
 
 
 
